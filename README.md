@@ -19,7 +19,7 @@ Let's network and stay in touch!
 ## Tech Stack & Proficiencies
 I work with a diverse set of technologies and tools, including:
 - **Languages**: Python, JavaScript, C#
-- **Web Development**: React, Node.js, JavaScript, Tailwind CSS, HTML
+- **Web Development**: React, Node.js, Tailwind CSS, HTML
 - **Databases**: SQL, MongoDB, Oracle
 - **AI/ML Libraries**: NumPy, Pandas, Machine Learning, Artificial Intelligence
 
