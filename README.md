@@ -6,7 +6,7 @@ I'm a Software Engineering student and an aspiring developer with a passion for 
 - 🌱 **Learning**: MERN Stack (MongoDB, Express.js, React, Node.js)
 - 😄 **Pronouns**: He/him
 - 📄 **Experience**: [Check out my resume](https://portfolio-six-cyan-49.vercel.app/ritesh.resume.pdf)
-- 📫 **Contact Me**: riteshkadian04.com
+- 📫 **Contact Me**: riteshkadian04@gmail.com
 
 ## Projects & Work
 Explore my projects and contributions on GitHub:
