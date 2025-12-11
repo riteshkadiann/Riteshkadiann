@@ -18,23 +18,12 @@ Let's network and stay in touch!
 
 ## Tech Stack & Proficiencies
 I work with a diverse set of technologies and tools, including:
-- **Business & Strategy**: 💼 Business-to-Business (B2B),
-☁️ Software as a Service (SaaS),
-📈 Go-to-Market Strategy,
-⚖️ Legal Technology
-Experience: Business Development Executive at Datacove.ai
-- **Programming & AI**: 🐍 Python (Programming Language)
-🤖 Artificial Intelligence (AI)
-🧠 Machine Learning
-C#
-- **Web Development (MERN Stack Focus)**: ⚛️ React.js
-🟢 Node.js
-✨ JavaScript
-🎨 Tailwind CSS, Cascading Style Sheets (CSS)
-🌐 HTML5
+- **Languages**: Python, JavaScript, C#
+- **Web Development**: React, Node.js, JavaScript, Tailwind CSS, HTML
+- **Databases**: SQL, MongoDB, Oracle
+- **AI/ML Libraries**: NumPy, Pandas, Machine Learning, Artificial Intelligence
 
 Feel free to explore my work and reach out if you'd like to collaborate or learn more about what I do. I'm always excited to connect with fellow tech enthusiasts!
-
 
 <!---
 RiteshKadiann/Riteshkadiann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
